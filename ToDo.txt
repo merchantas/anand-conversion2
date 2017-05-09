@@ -3,3 +3,4 @@ Conversion tools we want in our package
 - Dollars to cents
 - Gallons to litres
 - Hours to minutes
+- Feet to inches
