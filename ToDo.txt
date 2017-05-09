@@ -5,3 +5,4 @@ Conversion tools we want in our package
 - Hours to minutes
 - Feet to inches
 - Minutes to seconds
+- Degrees to Radians
