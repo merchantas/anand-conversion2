@@ -6,3 +6,8 @@ Conversion tools we want in our package
 - Feet to inches
 - Minutes to seconds
 - Degrees to Radians
+
+Implemention
+
+Probably better to write different functions for each conversion,
+instead of handling all conversions in a single function
