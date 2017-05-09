@@ -7,3 +7,7 @@ def dollar_to_cents(dollars):
 def hours_to_minutes(hours):
 	minutes = hours * 60
         return minutes
+
+def gallons_to_liters(gallons):
+	liters = gallons * 3.78
+	return liters
